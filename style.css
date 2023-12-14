@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalnia:wght@600&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+}
+p {
+    color: red;
+    background-color: aqua;
+    font-family: 'Kalnia', serif;
+    font-size: 16px;
+    font-weight: lighter;
+    text-align: center;
+    line-height: 60px;
+}
+.paragrafo_03 {
+    color: brown;
+    background-color: bisque;
+    
+}
+h1 {
+    color: black;
+    text-align: center;
+    text-decoration:overline;
+    text-transform:uppercase;
+    
+}
+div {
+    background-color: black;
+    width: 20rem ;
+    height: 20rem;
+    margin-left:28rem;
+    border-radius: 50%;  
+    
+}
+div {
+    display: flex;
+}
+#caixa_02 {
+    display: flex;
+}
